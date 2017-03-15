@@ -1,6 +1,6 @@
 ## ufw
 
-[![Build Status](https://travis-ci.org/Oefenweb/ansible-ufw.svg?branch=master)](https://travis-ci.org/Oefenweb/ansible-ufw) [![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-ufw-blue.svg)](https://galaxy.ansible.com/tersmitten/ufw)
+[![Build Status](https://travis-ci.org/viasite-ansible/ansible-role-ufw.svg?branch=master)](https://travis-ci.org/viasite-ansible/ansible-role-ufw) [![Ansible Galaxy](http://img.shields.io/badge/ansible--galaxy-ufw-blue.svg)](https://galaxy.ansible.com/viasite-ansible/ufw)
 
 Set up ufw in Debian-like systems.
 
